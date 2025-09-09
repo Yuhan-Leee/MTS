@@ -1,0 +1,188 @@
+{
+  "jurisprudence": [
+    {
+      "question": "Which position does Rawls claim is the least likely to be adopted by the POP (people in the original position)?",
+      "choices": [
+        "The POP would choose equality above liberty.",
+        "The POP would opt for the 'maximin' strategy.",
+        "The POP would opt for the 'difference principle'.",
+        "The POP would reject the 'system of natural liberty.'"
+      ],
+      "answer": "0",
+      "subject": "jurisprudence",
+      "domain_id": 0
+    },
+    {
+      "question": "Functions of the law include all but which of the following?",
+      "choices": [
+        "maximizing individual freedom",
+        "providing a basis for compromise",
+        "keeping the peace",
+        "promoting the principles of the free enterprise system"
+      ],
+      "answer": "3",
+      "subject": "jurisprudence",
+      "domain_id": 0
+    },
+    {
+      "question": "Which word best summarizes Weber's explanation of the development of formally rational law?",
+      "choices": [
+        "Authority.",
+        "Charisma.",
+        "Co-operation.",
+        "Capitalism."
+      ],
+      "answer": "3",
+      "subject": "jurisprudence",
+      "domain_id": 0
+    },
+    {
+      "question": "The ________ School of jurisprudence postulates that the law is based on what is \"correct.\"",
+      "choices": [
+        "Natural Law",
+        "Analytical",
+        "Historical",
+        "Sociological"
+      ],
+      "answer": "0",
+      "subject": "jurisprudence",
+      "domain_id": 0
+    },
+    {
+      "question": "Iverson Jewelers wrote a letter to Miller, 'We have received an exceptionally fine self winding Rolox watch which we will sell to you at a very favorable price.'",
+      "choices": [
+        "The letter is an offer to sell",
+        "A valid offer cannot be made by letter.",
+        "The letter contains a valid offer which will terminate within a reasonable time.",
+        "The letter lacks one of the essential elements of an offer."
+      ],
+      "answer": "3",
+      "subject": "jurisprudence",
+      "domain_id": 0
+    }
+  ],
+  "global_facts": [
+    {
+      "question": "Which of the following pairs of statements are both true (as of 2019)?",
+      "choices": [
+        "People tend to be optimistic about their own future and the future of their nation or the world.",
+        "People tend to be optimistic about their own future but pessimistic about the future of their nation or the world.",
+        "People tend to be pessimistic about their own future but optimistic about the future of their nation or the world.",
+        "People tend to be pessimistic about their own future and the future of their nation or the world."
+      ],
+      "answer": "1",
+      "subject": "global_facts",
+      "domain_id": 1
+    },
+    {
+      "question": "As of 2019, about what percentage of Americans agree that the state is run for the benefit of all the people?",
+      "choices": [
+        "31%",
+        "46%",
+        "61%",
+        "76%"
+      ],
+      "answer": "1",
+      "subject": "global_facts",
+      "domain_id": 1
+    },
+    {
+      "question": "As of 2015, since 1990 forests have ____ in Europe and have ____ in Africa and the Americas.",
+      "choices": [
+        "increased, increased",
+        "increased, decreased",
+        "decreased, increased",
+        "decreased, decreased"
+      ],
+      "answer": "1",
+      "subject": "global_facts",
+      "domain_id": 1
+    },
+    {
+      "question": "As of 2019, about what percentage of Russians say it is very important to have free media in our country without government/state censorship?",
+      "choices": [
+        "38%",
+        "53%",
+        "68%",
+        "83%"
+      ],
+      "answer": "0",
+      "subject": "global_facts",
+      "domain_id": 1
+    },
+    {
+      "question": "As of 2017, how many of the world’s 1-year-old children today have been vaccinated against some disease? *",
+      "choices": [
+        "80%",
+        "60%",
+        "40%",
+        "20%"
+      ],
+      "answer": "0",
+      "subject": "global_facts",
+      "domain_id": 1
+    }
+  ],
+  "electrical_engineering": [
+    {
+      "question": "In an SR latch built from NOR gates, which condition is not allowed",
+      "choices": [
+        "S=0, R=0",
+        "S=0, R=1",
+        "S=1, R=0",
+        "S=1, R=1"
+      ],
+      "answer": "3",
+      "subject": "electrical_engineering",
+      "domain_id": 2
+    },
+    {
+      "question": "In a 2 pole lap winding dc machine , the resistance of one conductor is 2Ω and total number of conductors is 100. Find the total resistance",
+      "choices": [
+        "200Ω",
+        "100Ω",
+        "50Ω",
+        "10Ω"
+      ],
+      "answer": "2",
+      "subject": "electrical_engineering",
+      "domain_id": 2
+    },
+    {
+      "question": "The coil of a moving coil meter has 100 turns, is 40 mm long and 30 mm wide. The control torque is 240*10-6 N-m on full scale. If magnetic flux density is 1Wb/m2 range of meter is",
+      "choices": [
+        "1 mA.",
+        "2 mA.",
+        "3 mA.",
+        "4 mA."
+      ],
+      "answer": "1",
+      "subject": "electrical_engineering",
+      "domain_id": 2
+    },
+    {
+      "question": "Two long parallel conductors carry 100 A. If the conductors are separated by 20 mm, the force per meter of length of each conductor will be",
+      "choices": [
+        "100 N.",
+        "0.1 N.",
+        "1 N.",
+        "0.01 N."
+      ],
+      "answer": "1",
+      "subject": "electrical_engineering",
+      "domain_id": 2
+    },
+    {
+      "question": "A point pole has a strength of 4π * 10^-4 weber. The force in newtons on a point pole of 4π * 1.5 * 10^-4 weber placed at a distance of 10 cm from it will be",
+      "choices": [
+        "15 N.",
+        "20 N.",
+        "7.5 N.",
+        "3.75 N."
+      ],
+      "answer": "0",
+      "subject": "electrical_engineering",
+      "domain_id": 2
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+# Sample MTS Configuration
+
+# Data configuration
+data:
+  input_dir: "/path/to/your/mmlu/dataset"
+  output_dir: "outputs/data_5shot"
+  max_length: 1024
+
+# Model configuration
+model:
+  path: "/path/to/your/language/model"
+  device: "auto"
+  batch_size: 1
+
+# Training configuration
+training:
+  learning_rate: 1e-4
+  weight_decay: 1e-5
+  num_epochs: 20
+  batch_size: 64
+  hidden_dim: 256
+
+# Output configuration
+output:
+  features_dir: "outputs/features_5shot"
+  models_dir: "outputs/models_5shot"
+  results_dir: "outputs/results_5shot"
+
+# Logging configuration
+logging:
+  level: "INFO"
+  file: null
